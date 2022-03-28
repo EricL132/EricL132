@@ -1,16 +1,38 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Eric</h1>
+<h3 align="center">A passionate Software Developer</h3>
+<p align="center">
+<img src="https://i.ibb.co/F0ypyt2/f.gif"/>
+</p>
 
-<!--
-**EricL132/EricL132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-   🌱 I'm currently updating old projects and learning TypeScript
 
-Here are some ideas to get you started:
+-   👨‍💻 Find some of my projects at [https://ericliao.me/projects](https://ericliao.me/projects)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-   💬 Ask me about anything
+-   📫 How to reach me **contact@ericliao.me**
+-   😄 I build things 😄
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+<a href="https://ericliao.me/" target="blank"><img align="center" src="https://i.ibb.co/vw4TdRr/7e37f6ac909a9b653b6c056e41dd97f0-removebg-preview.png" alt="https://www.linkedin.com/in/ericliao132/"/></a>
+<a href="https://www.linkedin.com/in/ericliao132/" target="blank"><img align="center" src="https://i.ibb.co/2PpmFGQ/icons8-linkedin-2-48.png" alt="https://www.linkedin.com/in/ericliao132/" height="48" width="48" /></a>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/vQHYwnB/icons8-javascript-48.png" alt="javascript" width="48" height="48"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://svgshare.com/i/fho.svg" alt="python" width="48" height="48"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/M9M9wQM/icons8-react-48.png" alt="react" width="48" height="48"/> </a> 
+<a href="https://html.com/" target="_blank" rel="noreferrer">
+<img src="https://i.ibb.co/dfK8S0p/icons8-html-5-48.png" alt="html5" width="48" height="48"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/1fz6Lq7/icons8-css3-48.png" alt="css3" width="48" height="48"/> </a> 
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/kSd5vCZ/icons8-google-cloud-48.png" alt="gcp" width="48" height="48"/> </a>  
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://svgshare.com/i/fiP.svg" alt="postgresql" width="45" height="45"/> </a>   
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src=https://svgshare.com/i/fhc.svg" alt="mongodb" width="40" height="40"/> </a>  
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://svgshare.com/i/fh0.svg" alt="nodejs" width="40" height="40"/> </a> 
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://svgur.com/i/fjE.svg" alt="express" width="40" height="40"/> </a> 
+<a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://svgshare.com/i/fhb.svg" alt="nginx" width="40" height="40"/> </a>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ericl132&show_icons=true&locale=en&layout=compact" alt="ericl132" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ericl132&show_icons=true&locale=en" alt="ericl132" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ericl132&" alt="ericl132" /></p>
