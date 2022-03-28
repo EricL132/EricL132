@@ -9,13 +9,16 @@
 -   👨‍💻 Find some of my projects at [https://ericliao.me/projects](https://ericliao.me/projects)
 
 -   💬 Ask me about anything
+
 -   📫 How to reach me **contact@ericliao.me**
+
 -   😄 I build things 😄
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://ericliao.me/" target="blank"><img align="center" src="https://i.ibb.co/vw4TdRr/7e37f6ac909a9b653b6c056e41dd97f0-removebg-preview.png" alt="https://www.linkedin.com/in/ericliao132/"/></a>
-<a href="https://www.linkedin.com/in/ericliao132/" target="blank"><img align="center" src="https://i.ibb.co/2PpmFGQ/icons8-linkedin-2-48.png" alt="https://www.linkedin.com/in/ericliao132/" height="48" width="48" /></a>
+<a href="https://ericliao.me/" target="_blank"><img align="center" src="https://i.ibb.co/vw4TdRr/7e37f6ac909a9b653b6c056e41dd97f0-removebg-preview.png" alt="https://ericliao.me/"/></a>
+<a href="https://www.linkedin.com/in/ericliao132/" target="_blank"><img align="center" src="https://i.ibb.co/2PpmFGQ/icons8-linkedin-2-48.png" alt="https://www.linkedin.com/in/ericliao132/" height="48" width="48" /></a>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/vQHYwnB/icons8-javascript-48.png" alt="javascript" width="48" height="48"/> </a>
