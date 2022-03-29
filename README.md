@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eric</h1>
 <h3 align="center">A passionate Software Developer</h3>
 <p align="center">
-<img src="https://i.ibb.co/F0ypyt2/f.gif"/>
+<img src="https://i.ibb.co/k2vqK9m/main-a.gif"/>
 </p>
 
 - 🌱 I'm currently updating old projects and learning TypeScript
@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://ericliao.me/" ><img align="center" src="https://i.ibb.co/vw4TdRr/7e37f6ac909a9b653b6c056e41dd97f0-removebg-preview.png" alt="https://ericliao.me/"/></a>
+<a href="https://ericliao.me/" ><img align="center" src="https://i.ibb.co/rGFRZcX/el.png" alt="https://ericliao.me/"/></a>
 <a href="https://www.linkedin.com/in/ericliao132/" ><img align="center" src="https://i.ibb.co/2PpmFGQ/icons8-linkedin-2-48.png" alt="https://www.linkedin.com/in/ericliao132/" height="48" width="48" /></a>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
