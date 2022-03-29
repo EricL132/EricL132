@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eric</h1>
 <h3 align="center">A passionate Software Developer</h3>
 <p align="center">
-<img src="https://i.ibb.co/k2vqK9m/main-a.gif"/>
+<img src="https://i.ibb.co/4s1jjHc/main-gif.gif"/>
 </p>
 
 - 🌱 I'm currently updating old projects and learning TypeScript
