@@ -44,8 +44,8 @@
 </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ericl132&show_icons=true&locale=en&layout=compact&exclude_repo=Image-Scanner,UnityGame-Source,Airplane-Unity" alt="ericl132" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ericl132&show_icons=true&locale=en&layout=compact&exclude_repo=Image-Scanner,UnityGame-Source,Airplane-Unity" alt="ericl132" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ericl132&show_icons=true&locale=en" alt="ericl132" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=ericl132&show_icons=true&locale=en" alt="ericl132" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ericl132&" alt="ericl132" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ericl132&" alt="ericl132" /></p>
