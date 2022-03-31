@@ -21,26 +21,26 @@
 <a href="https://www.linkedin.com/in/ericliao132/" ><img align="center" src="https://i.ibb.co/2PpmFGQ/icons8-linkedin-2-48.png" alt="https://www.linkedin.com/in/ericliao132/" height="48" width="48" /></a>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://i.ibb.co/vQHYwnB/icons8-javascript-48.png" alt="javascript" width="48" height="48"/> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://raw.githubusercontent.com/EricL132/EricL132/main/javascript-original.svg?sanitize=true" alt="javascript" width="50" height="50"/> 
 </a>
-<a href="https://www.python.org"> <img src="https://svgshare.com/i/fho.svg" alt="python" width="48" height="48"/> 
+<a href="https://www.python.org"> <img src="https://raw.githubusercontent.com/EricL132/EricL132/main/python-original.svg?sanitize=true" alt="python" width="50" height="50"/> 
 </a>
-<a href="https://reactjs.org/"> <img src="https://i.ibb.co/M9M9wQM/icons8-react-48.png" alt="react" width="48" height="48"/> 
+<a href="https://reactjs.org/"> <img src="https://raw.githubusercontent.com/EricL132/EricL132/main/react-original.svg?sanitize=true" alt="react" width="50" height="50"/> 
 </a> 
 <a href="https://html.com/">
-<img src="https://i.ibb.co/dfK8S0p/icons8-html-5-48.png" alt="html5" width="48" height="48"/> 
+<img src="https://raw.githubusercontent.com/EricL132/EricL132/main/html5-original.svg?sanitize=true" alt="html5" width="50" height="50"/> 
 </a> 
-<a href="https://www.w3schools.com/css/"> <img src="https://i.ibb.co/1fz6Lq7/icons8-css3-48.png" alt="css3" width="48" height="48"/>
+<a href="https://www.w3schools.com/css/"> <img src="https://raw.githubusercontent.com/EricL132/EricL132/main/css3-original.svg?sanitize=true" alt="css3" width="50" height="50"/>
 </a> 
-<a href="https://cloud.google.com"> <img src="https://i.ibb.co/kSd5vCZ/icons8-google-cloud-48.png" alt="gcp" width="48" height="48"/>
+<a href="https://cloud.google.com"> <img src="https://raw.githubusercontent.com/EricL132/EricL132/main/google-cloud-original.svg?sanitize=true" alt="gcp" width="50" height="50"/>
 </a> 
-<a href="https://www.postgresql.org"> <img src="https://svgshare.com/i/fiP.svg" alt="postgresql" width="45" height="45"/> 
+<a href="https://www.postgresql.org"> <img src="https://raw.githubusercontent.com/EricL132/EricL132/main/postgresql-original.svg?sanitize=true" alt="postgresql" width="50" height="50"/> 
 </a> 
-<a href="https://www.mongodb.com/"> <img src= "https://svgshare.com/i/fhc.svg" alt="mongodb" width="40" height="40"/> 
+<a href="https://www.mongodb.com/"> <img src= "https://raw.githubusercontent.com/EricL132/EricL132/main/mongodb-original.svg?sanitize=true" alt="mongodb" width="50" height="50"/> 
 </a> 
-<a href="https://nodejs.org"> <img src="https://svgshare.com/i/fh0.svg" alt="nodejs" width="40" height="40"/>
+<a href="https://nodejs.org"> <img src="https://raw.githubusercontent.com/EricL132/EricL132/main/nodejs-original.svg?sanitize=true" alt="nodejs" width="50" height="50"/>
 </a> 
-<a href="https://www.nginx.com"> <img src="https://svgshare.com/i/fhb.svg" alt="nginx" width="40" height="40"/> 
+<a href="https://www.nginx.com"> <img src="https://raw.githubusercontent.com/EricL132/EricL132/main/nginx-original.svg?sanitize=true" alt="nginx" width="50" height="50"/> 
 </a> 
 </p>
 
