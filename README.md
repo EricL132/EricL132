@@ -6,18 +6,18 @@
 
 - 🌱 I'm currently updating old projects and learning TypeScript
 
-- 👨‍💻 Find some of my projects at [https://ericliao.me/projects](https://ericliao.me/projects)
+- 👨‍💻 Find some of my projects at [https://ericliao.dev/projects](https://ericliao.dev/projects)
 
 - 💬 Ask me about anything
 
-- 📫 How to reach me **contact@ericliao.me**
+- 📫 How to reach me **contact@ericliao.dev**
 
 - 😄 I build things 😄
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://ericliao.me/" ><img align="center" src="https://i.ibb.co/rGFRZcX/el.png" alt="https://ericliao.me/"/></a>
+<a href="https://ericliao.dev/" ><img align="center" src="https://i.ibb.co/rGFRZcX/el.png" alt="https://ericliao.dev/"/></a>
 <a href="https://www.linkedin.com/in/ericliao132/" ><img align="center" src="https://i.ibb.co/2PpmFGQ/icons8-linkedin-2-48.png" alt="https://www.linkedin.com/in/ericliao132/" height="48" width="48" /></a>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
